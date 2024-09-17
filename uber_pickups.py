@@ -1,3 +1,14 @@
+# link:https://uberpickupspy-cykdpbbpd3btsqttzn9tnv.streamlit.app/
+"""
+Una vez que hayas creado una aplicación Streamlit, ¡es hora de compartirla! Para mostrarlo al mundo, puede usar Streamlit Community Cloud para implementar, administrar y compartir su aplicación de forma gratuita.
+
+Funciona en 3 sencillos pasos:
+
+Coloca tu aplicación en un repositorio público de GitHub (¡y asegúrate de que tenga un requirements.txt!)
+Inicie sesión en share.streamlit.io
+Haz clic en "Implementar una aplicación" y, a continuación, pégala en la URL de GitHub
+"""
+
 import streamlit as st
 import pandas as pd
 import numpy as np
